@@ -1,10 +1,10 @@
-package com.ringgo.ringgo_coupon
+package com.ringgo.ringgo_event
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class RinggoCouponApplicationTests {
+class RinggoEventApplicationTests {
 
 	@Test
 	fun contextLoads() {

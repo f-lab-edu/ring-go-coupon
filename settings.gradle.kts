@@ -1,1 +1,1 @@
-rootProject.name = "ringgo-coupon"
+rootProject.name = "ringgo-event"

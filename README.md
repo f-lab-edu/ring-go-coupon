@@ -1,2 +1,2 @@
-# ring-go-coupon
-링고(Ring-go) 쿠폰 애플리케이션
+# ring-go-event
+링고(Ring-go) 이벤트 애플리케이션
